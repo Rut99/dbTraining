@@ -5,7 +5,7 @@ public class Customer {
 	private String name;
 
 	public Customer() {
-		String name="Name";
+		String name="Rutuja";
 	}
 	
 	public void setName(String name) {
